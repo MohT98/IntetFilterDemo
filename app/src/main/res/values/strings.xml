@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentFilterDemo</string>
+    <string name="title_activity_second">second activity</string>
+    <string name="title_activity_third">third activity</string>
+</resources>
